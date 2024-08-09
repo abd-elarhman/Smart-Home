@@ -123,7 +123,7 @@ Read this [guide]() to know what tools are required to develop this project.
 
    Clone this repository to your local machine:
    ```
-   git clone https://github.com/abd-elarhman/Microwave-Oven.git
+   git clone https://github.com/abd-elarhman/Smart-Home.git
    ```
 ### Code
 
